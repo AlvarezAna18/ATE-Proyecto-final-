@@ -1,4 +1,5 @@
 Sistema Inteligente de Iluminación Circadiana y Monitoreo del Sueño (IoT + Machine Learning) 
+
 Autores:
 Ana Alvarez Ramirez
 Ary Naim Moreno Garcia
@@ -12,6 +13,9 @@ Simula el amanecer mediante un incremento gradual de luz cálida (rampa ajustabl
 
 Enlaces del Proyecto
 Simulación de Circuito (Wokwi):(https://wokwi.com/projects/481423054872943617)
+
 Canal ThingSpeak (Datos):(https://thingspeak.mathworks.com/channels/3592249)
+
 Canal ThingSpeak (Predicciones semanales):(https://thingspeak.mathworks.com/channels/3592253)
+
 Notebook de Análisis en Google Colab: (https://colab.research.google.com/drive/17BrSf3KuCU30MSIGTSdca6j6PxiSx8Fo?usp=sharing)
