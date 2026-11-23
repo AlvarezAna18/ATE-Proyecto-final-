@@ -18,4 +18,4 @@ Canal ThingSpeak (Datos):(https://thingspeak.mathworks.com/channels/3592249)
 
 Canal ThingSpeak (Predicciones semanales):(https://thingspeak.mathworks.com/channels/3592253)
 
-Notebook de Análisis en Google Colab: (https://colab.research.google.com/drive/17BrSf3KuCU30MSIGTSdca6j6PxiSx8Fo?usp=sharing)
+Notebook de Análisis en Google Colab: (https://colab.research.google.com/drive/1VpEK9W8SXqfZJnnGQJ8CeHeTW1zbSqvs)
