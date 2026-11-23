@@ -1,4 +1,4 @@
-# Sistema Inteligente de Iluminación Circadiana y Monitoreo del Sueño (IoT + Machine Learning)
+Sistema Inteligente de Iluminación Circadiana y Monitoreo del Sueño (IoT + Machine Learning) 
 Autores:
 Ana Alvarez Ramirez
 Ary Naim Moreno Garcia
@@ -10,7 +10,7 @@ Activa una luz roja tenue de forma intermitente cerca de la hora predicha para d
 Por la mañana:
 Simula el amanecer mediante un incremento gradual de luz cálida (rampa ajustable entre 10 y 30 min) calculada según los hábitos recientes del usuario
 
-#Enlaces del Proyecto
+Enlaces del Proyecto
 Simulación de Circuito (Wokwi):(https://wokwi.com/projects/481423054872943617)
 Canal ThingSpeak (Datos):(https://thingspeak.mathworks.com/channels/3592249)
 Canal ThingSpeak (Predicciones semanales):(https://thingspeak.mathworks.com/channels/3592253)
