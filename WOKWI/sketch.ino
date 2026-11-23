@@ -53,7 +53,7 @@ const char* password = "";
 // ThingSpeak
 // canal datos: 1 dia, 2 hora acostarse, 3 latencia, 4 despertar pred, 5 levantado, 6 tiempo apagar, 7 luz, 8 evento
 const unsigned long canalDatos = 3592249;
-const char* apiKeyDatos = "TU_WRITE_API_KEY";
+const char* apiKeyDatos = "7N0IX5799A2GHSXI";
 
 // canal predicciones: 1 dormir, 2 despertar, 3 rampa
 const unsigned long canalPredicciones = 3592253;
